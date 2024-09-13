@@ -1,16 +1,14 @@
 # 🚀 Jagan Mohan Yangala | DevOps Engineer
-
-graph LR
-A[Plan & Design] -->|AWS, Azure| B{Code & Build}
-B -->|Terraform, Ansible| C{Build & Test}
-C -->|Docker, Kubernetes| D{Deploy & Monitor}
-D -->|Monitor & Log (Prometheus, Grafana, ELK)| E{Operate}
-E -->|Optimize Performance| A
-
-classDef stage fill:#ddd, stroke:#333
-classDef decision fill:#eee, stroke:#333
-A[Plan & Design] -->|Review & Iterate| decision
-decision --> B
+```mermaid
+graph TD
+    A[Plan] -->|Cloud Architecture| B[Code & Build]
+    B -->|Infrastructure as Code| C[Containerize]
+    C -->|Docker & Kubernetes| D[Test & Validate]
+    D -->|Automated Testing| E[Deploy]
+    E -->|CI/CD Pipelines| F[Monitor]
+    F -->|Monitoring & Logging| G[Optimize]
+    G -->|Performance Tuning| A
+```
 
 ## 🛠 Skills in the Pipeline
 
