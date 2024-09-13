@@ -63,7 +63,7 @@
 
 ## 📊 Animated Progress Bar for Key Skills
 
-```html
+```html```
 <!-- HTML code for embedding progress bars -->
 <!-- Languages -->
 <h3>Languages:</h3>
@@ -91,7 +91,6 @@
   </div>
 </div>
 ---
-```
 ## 📊 GitHub Stats
 
 ![Jagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaganMohan-Y&show_icons=true&theme=radical)
