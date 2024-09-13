@@ -54,10 +54,44 @@
 ---
 
 ## 🎯 Key Achievements
-- **🏆 Awarded SPOTLIGHT of THE MONTH** for exceptional performance and client delivery.
+
+🏅 **SPOTLIGHT OF THE MONTH** – Recognized for my **innovative automation** and **cloud optimization** efforts that helped cut down project delivery time and saved critical resources.
+
+📈 **Zero-Downtime Deployments** – Led continuous delivery workflows ensuring 100% uptime for production systems with zero interruptions.
 
 ---
 
+## 📊 Animated Progress Bar for Key Skills
+
+```html
+<!-- HTML code for embedding progress bars -->
+<!-- Languages -->
+<h3>Languages:</h3>
+<div class="progress-bar">
+  <div class="progress">
+    <div class="progress-filled" style="width: 90%"></div>
+    <p>Python 90%</p>
+  </div>
+  <div class="progress">
+    <div class="progress-filled" style="width: 80%"></div>
+    <p>Shell Scripting 80%</p>
+  </div>
+</div>
+
+<!-- Cloud Infrastructure -->
+<h3>Cloud Infrastructure:</h3>
+<div class="progress-bar">
+  <div class="progress">
+    <div class="progress-filled" style="width: 95%"></div>
+    <p>AWS 95%</p>
+  </div>
+  <div class="progress">
+    <div class="progress-filled" style="width: 85%"></div>
+    <p>Terraform 85%</p>
+  </div>
+</div>
+---
+```
 ## 📊 GitHub Stats
 
 ![Jagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaganMohan-Y&show_icons=true&theme=radical)
