@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jaganmohan-y)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:yangalajaganmohan44@gmail.com)
 
-## 👨‍💻 DevOps Engineer | Cloud Enthusiast | Automation Specialist
+## 👨‍💻 DevOps Engineer | Cloud Enthusiast 
 
 Versatile DevOps Engineer with 2.6+ years of hands-on experience in cloud services (AWS), configuration management, and containerization. Proven track record in implementing efficient CI/CD pipelines and automating critical processes. Skilled in bridging development and operations, optimizing infrastructure for scalability, and driving digital transformation through innovative DevOps solutions.
 
