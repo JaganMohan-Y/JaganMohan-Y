@@ -76,6 +76,3 @@
 ---
 
 💡 _Always iterating, always improving. Let's build robust, scalable systems together!_
-### 🎉 Bonus: Interactive GitHub Contributions Snake
-
-![snake gif](https://github.com/JaganMohan-Y/JaganMohan-Y/blob/output/github-contribution-grid-snake.svg)
