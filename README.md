@@ -52,6 +52,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
+
 ## 🎯 Key Achievements
 
 🏅 **SPOTLIGHT OF THE MONTH** – Recognized for my **innovative automation** and **cloud optimization** efforts that helped cut down project delivery time and saved critical resources.
