@@ -72,7 +72,8 @@
 I'm currently expanding my knowledge in:
 - Machine Learning Operations (MLOps) for model deployment and finetuning 
 - Serverless Architectures
-- Advanced Kubernetes Patterns![image](https://github.com/user-attachments/assets/f481cfd4-5496-4e57-b2dd-568586dd8c61)
+- Advanced Kubernetes Patterns
+
 
 ## 📫 Let's Connect
 
