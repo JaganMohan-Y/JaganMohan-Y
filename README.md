@@ -38,31 +38,32 @@
 <div align="center">
   <h2>Languages and Tools:</h2>
   <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/googlecloud/google-cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/googlecloud/google-cloud-icon.svg" alt="gcp" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/awscdk/awscdk-original.svg" alt="aws-cdk" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubesphere/kubesphere-original.svg" alt="kubesphere" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudwatch/cloudwatch-original.svg" alt="cloudwatch" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/opsgénie/opsgénie-icon.svg" alt="opsgenie" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/twistlock/twistlock-icon.svg" alt="twistlock" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shell/shell-script.svg" alt="shell" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/groovy/groovy-icon.svg" alt="groovy" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40" />
+  </p>
+</div>
 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/awscdk/awscdk-original.svg" alt="aws-cdk" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubesphere/kubesphere-original.svg" alt="kubesphere" width="40" height="40"/>
-
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudwatch/cloudwatch-original.svg" alt="cloudwatch" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/opsgénie/opsgénie-icon.svg" alt="opsgenie" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/twistlock/twistlock-icon.svg" alt="twistlock" width="40" height="40"/>
-
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shell/shell-script.svg" alt="shell" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/groovy/groovy-icon.svg" alt="groovy" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-
-    <img src="raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaganmohan-y&show_icons=true&locale=en&layout=compact&theme=radical" alt="jaganmohan-y" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaganmohan-y&show_icons=true&locale=en&theme=radical" alt="jaganmohan-y" /></p>
