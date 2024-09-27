@@ -5,6 +5,10 @@
 
 <h3 align="center">DevOps Engineer focused on automation and cloud technologies for efficiency.</h3>
 
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaganmohan-y&label=Profile%20views&color=0e75b6&style=flat" alt="jaganmohan-y" />
+</p> -->
+
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/JaganMohan-Y/JaganMohan-Y/main/assets/devops-engineer.gif">
 
 - 🔭 I'm currently working on **AWS Cloud Projects**
@@ -21,9 +25,14 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jaganmohan-y](https://www.linkedin.com/in/jaganmohan-y)
 
+<!-- <h3 align="left">Blog posts:</h3> -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jaganmohan-y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaganmohan-y" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@yangalajaganmohan44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yangalajaganmohan44" height="30" width="40" /></a> -->
 </p>
 
 <div align="center">
@@ -41,39 +50,9 @@
     <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </p>
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaganmohan-y&show_icons=true&locale=en&layout=compact&theme=radical" alt="jaganmohan-y" /></p>
 
-  <div style="display: flex; justify-content: space-around; margin-top: 20px;">
-    <div style="width: 45%; text-align: left; background-color: #1e1e1e; padding: 10px; border-radius: 5px;">
-      <h3 style="color: #ff69b4;">Most Used Languages</h3>
-      <div style="background-color: #7e57c2; width: 76.77%; height: 20px; border-radius: 5px; margin-bottom: 5px;"></div>
-      <div style="background-color: #66bb6a; width: 23.23%; height: 20px; border-radius: 5px;"></div>
-      <p style="color: #ffffff;">HCL: 76.77% | Shell: 23.23%</p>
-    </div>
-    <div style="width: 45%; text-align: left; background-color: #1e1e1e; padding: 10px; border-radius: 5px;">
-      <h3 style="color: #ff69b4;">Jagan Mohan Yangala's GitHub Stats</h3>
-      <p style="color: #ffeb3b;">⭐ Total Stars Earned: 0</p>
-      <p style="color: #4caf50;">🕒 Total Commits (2024): 21</p>
-      <p style="color: #2196f3;">🔀 Total PRs: 4</p>
-      <p style="color: #f44336;">🚩 Total Issues: 0</p>
-      <p style="color: #9c27b0;">📚 Contributed to (last year): 0</p>
-    </div>
-  </div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaganmohan-y&show_icons=true&locale=en&theme=radical" alt="jaganmohan-y" /></p>
 
-  <div style="display: flex; justify-content: space-around; margin-top: 20px; background-color: #1e1e1e; padding: 10px; border-radius: 5px;">
-    <div>
-      <h3 style="color: #ff69b4;">67</h3>
-      <p style="color: #ffffff;">Total Contributions</p>
-      <p style="color: #9e9e9e;">Apr 24, 2022 - Present</p>
-    </div>
-    <div>
-      <h3 style="color: #ff69b4;">1</h3>
-      <p style="color: #ffeb3b;">Current Streak</p>
-      <p style="color: #9e9e9e;">Sep 27</p>
-    </div>
-    <div>
-      <h3 style="color: #ff69b4;">4</h3>
-      <p style="color: #ffffff;">Longest Streak</p>
-      <p style="color: #9e9e9e;">Apr 24, 2022 - Apr 27, 2022</p>
-    </div>
-  </div>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaganmohan-y&theme=radical" alt="jaganmohan-y" /></p>
