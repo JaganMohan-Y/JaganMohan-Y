@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JaganMohan-Y/JaganMohan-Y/main/assets/devops-loop.png" alt="devops_gif" width="600">
+</p>
 <h1 align="center">Hi 👋, I'm Jagan Mohan Yangala from India</h1>
 
 <h3 align="center">DevOps Engineer focused on automation and cloud technologies for efficiency.</h3>
@@ -25,10 +28,6 @@
 <h3 align="left">Blog posts:</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/jaganmohany" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
