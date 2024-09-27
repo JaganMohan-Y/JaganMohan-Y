@@ -45,14 +45,8 @@
 <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="groovy" width="40" height="40"/> </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaganmohan-y&show_icons=true&locale=en&layout=compact&theme=radical" alt="jaganmohan-y" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaganmohan-y&show_icons=true&locale=en&layout=compact&theme=radical" alt="jaganmohan-y" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaganmohan-y&show_icons=true&locale=en&theme=radical" alt="jaganmohan-y" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaganmohan-y&show_icons=true&locale=en&theme=radical" alt="jaganmohan-y" /></p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaganmohan-y&theme=radical" alt="jaganmohan-y" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaganmohan-y&theme=radical" alt="jaganmohan-y" /></p>
