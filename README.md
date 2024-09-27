@@ -56,85 +56,8 @@
   </p>
 </div>
 
-<div align="center">
-  <h2>Most Used Languages</h2>
-  <p>
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <div style="width: 150px; height: 20px; background-color: #96ceb4; border-radius: 5px;">
-        <div style="width: 76.77%; height: 100%; background-color: #76965d;"></div>
-      </div>
-      <span>HCL 76.77%</span>
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <div style="width: 150px; height: 20px; background-color: #96ceb4; border-radius: 5px;">
-        <div style="width: 23.23%; height: 100%; background-color: #63b599;"></div>
-      </div>
-      <span>Shell 23.23%</span>
-    </div>
-  </p>
-</div>
-
-<div align="center">
-  <h2>Jagan Mohan Yangala's GitHub Stats</h2>
-  <table>
-    <tr>
-      <th>Statistic</th>
-      <th>Value</th>
-    </tr>
-    <tr>
-      <td>Total Stars Earned</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Total Commits (2024)</td>
-      <td>214</td>
-    </tr>
-    <tr>
-      <td>Total PRs</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Total Issues</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Contributed to (last year)</td>
-      <td>0</td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table style="border-collapse: collapse; width: 100%;">
-    <tr>
-      <th>Statistic</th>
-      <th>Value</th>
-    </tr>
-    <tr>
-      <td>Total Contributions</td>
-      <td>67</td>
-    </tr>
-    <tr>
-      <td>Current Streak</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Longest Streak</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Period</td>
-      <td>Apr 24, 2022 - Present</td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <p>Sep 27</p>
-</div>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaganmohan-y&show_icons=true&locale=en&layout=compact&theme=radical" alt="jaganmohan-y" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaganmohan-y&show_icons=true&locale=en&layout=compact&theme=radical" alt="jaganmohan-y" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaganmohan-y&show_icons=true&locale=en&theme=radical" alt="jaganmohan-y" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaganmohan-y&theme=radical" alt="jaganmohan-y" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaganmohan-y&theme=radical" alt="jaganmohan-y" /></p>
