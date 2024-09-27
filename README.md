@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JaganMohan-Y/JaganMohan-Y/main/assets/devops_gif" alt="DevOps Infinity Loop" width="600">
+  <img src="https://raw.githubusercontent.com/JaganMohan-Y/JaganMohan-Y/main/assets/devops_loop.gif" alt="DevOps Infinity Loop" width="600">
 </p>
 <h1 align="center">Hi 👋, I'm Jagan Mohan Yangala from India</h1>
 
