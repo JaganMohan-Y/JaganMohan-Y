@@ -12,10 +12,7 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/JaganMohan-Y/JaganMohan-Y/main/assets/devops-engineer.gif">
 
 - 🔭 I'm currently working on **AWS Cloud Projects**
-
 - 🌱 I'm currently learning **Kubernetes and MLOps**
-
-- 📝 I regularly write articles on [DevOps and Cloud Technologies]
 
 - 💬 Ask me about **DevOps, Cloud Computing (AWS), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting**
 
