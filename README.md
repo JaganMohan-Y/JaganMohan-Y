@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/JaganMohan-Y/JaganMohan-Y/main/assets/devops_loop.gif" alt="DevOps Infinity Loop" width="600">
 </p>
-<h1 align="center">Hi 👋, I'm Jagan Mohan Yangala from India</h1>
+<h1 align="center">Hi 👋, I'm Jagan Mohan Yangala </h1>
 
 <h3 align="center">DevOps Engineer focused on automation and cloud technologies for efficiency.</h3>
 
