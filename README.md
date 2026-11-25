@@ -37,10 +37,6 @@ I build and operate Kubernetes platforms on AWS. My work spans infrastructure as
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaganMohan-Y&amp;show_icons=true&amp;theme=transparent" alt="GitHub profile statistics" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaganMohan-Y&amp;layout=compact&amp;theme=transparent" alt="Most used languages in public repositories" height="150">
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=JaganMohan-Y&amp;theme=transparent" alt="GitHub contribution streak" height="150">
 </p>
 
