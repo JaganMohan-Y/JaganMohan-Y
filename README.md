@@ -1,104 +1,31 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JaganMohan-Y/JaganMohan-Y/main/assets/devops_loop.gif" alt="DevOps Infinity Loop" width="600">
-</p>
-<h1 align="center">Hi 👋, I'm Jagan Mohan Yangala</h1>
+# Jagan Mohan Yangala
 
-<h3 align="center">DevOps / Platform Engineer — Kubernetes, AWS, and GitOps at scale.</h3>
+**DevOps & Platform Engineer** · Bengaluru, India
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/JaganMohan-Y/JaganMohan-Y/main/assets/devops-engineer.gif">
+I build and operate Kubernetes platforms on AWS. My work spans infrastructure as code, GitOps, CI/CD, and production troubleshooting.
 
-- 🔭 Currently working on **multi-account, multi-region AWS EKS platforms** — GitOps with **ArgoCD + Helm**, service mesh with **Istio/Envoy**, secrets with **HashiCorp Vault (VSO)**
-- ⚙️ Building and operating **GitHub Actions self-hosted runners (ARC)** on Kubernetes — custom runner images, ECR pipelines, RBAC hardening
-- 📦 Administering **Nexus Repository Manager** — raw/maven repos, SSO role sync, TLS, blob store lifecycle
-- 📊 Observability with **New Relic, OpenSearch, and Graylog** — dashboards, APM, alert escalation
-- 🌱 Currently learning **Python for platform automation (boto3, hvac, kubernetes client)** and **policy-as-code (Kyverno/OPA)**
-- 💬 Ask me about **Kubernetes (EKS), ArgoCD, Helm, Istio, Vault, Terraform, GitHub Actions, Docker, Linux, Bash, AWS**
-- 📫 How to reach me: **yangalajaganmohan44@gmail.com**
-- 📄 Experience: [linkedin.com/in/jaganmohan-y](https://www.linkedin.com/in/jaganmohan-y)
+[LinkedIn](https://www.linkedin.com/in/jaganmohan-y) · [Email](mailto:yangalajaganmohan44@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jaganmohan-y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaganmohan-y" height="30" width="40" /></a>
-</p>
+## What I work on
 
-<h3 align="left">Tech Stack:</h3>
+- **Kubernetes operations.** Run and upgrade Amazon EKS clusters, manage node provisioning with Karpenter, and troubleshoot scheduling, networking, and Istio traffic.
+- **GitOps and delivery.** Deploy applications with Argo CD ApplicationSets and Helm. Build reusable GitHub Actions workflows, operate self-hosted runners with Actions Runner Controller (ARC), and promote the same build artifact across environments.
+- **Infrastructure as code.** Maintain Terraform modules and manage state, imports, and drift in HCP Terraform.
+- **Secrets and artifacts.** Deliver application secrets through HCP Vault and Vault Secrets Operator. Administer Nexus Repository Pro and support repository migrations.
+- **Production reliability.** Build New Relic dashboards and alerts, investigate logs with Graylog and OpenSearch, and write runbooks for on-call teams.
 
-<p align="left"><strong>Cloud</strong></p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40" />
-</p>
+## Tech stack
 
-<p align="left"><strong>Kubernetes & GitOps</strong></p>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-</p>
+| Area | Tools |
+| --- | --- |
+| Cloud & containers | AWS, Amazon EKS, Kubernetes, Docker, Karpenter, Istio |
+| Infrastructure as code | Terraform, HCP Terraform, Ansible, AWS CloudFormation, AWS CDK |
+| GitOps & CI/CD | Argo CD, Helm, GitHub Actions, ARC, GitLab CI, Jenkins |
+| Secrets & artifacts | HCP Vault, Vault Secrets Operator, Nexus Repository Pro, Amazon ECR |
+| Observability | New Relic, Graylog, OpenSearch, Prometheus, Grafana |
+| Scripting & tooling | Bash, Python, PowerShell, TypeScript, Linux, Git |
 
-<p align="left"><strong>CI/CD & IaC</strong></p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab-ci" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/renovate" alt="renovate" width="40" height="40" />
-</p>
+## Experience
 
-<p align="left"><strong>Security & Secrets</strong></p>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="vault" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/snyk" alt="snyk" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/trivy" alt="trivy" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/keycloak" alt="keycloak" width="40" height="40" />
-</p>
-
-<p align="left"><strong>Observability</strong></p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40" />
-  <img src="https://opensearch.org/assets/brand/SVG/Mark/opensearch_mark_default.svg" alt="opensearch" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/newrelic" alt="newrelic" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/fluentd" alt="fluentd" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/graylog" alt="graylog" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/opsgenie" alt="opsgenie" width="40" height="40" />
-</p>
-
-<p align="left"><strong>Databases</strong></p>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" />
-</p>
-
-<p align="left"><strong>Languages</strong></p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40" />
-</p>
-
-<p align="left"><strong>OS & Tools</strong></p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/github/ffffff" alt="github" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaganmohan-y&show_icons=true&locale=en&layout=compact&theme=radical" alt="jaganmohan-y" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaganmohan-y&show_icons=true&locale=en&theme=radical" alt="jaganmohan-y" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaganmohan-y&theme=radical" alt="jaganmohan-y" /></p>
+- **Scientific Games · Software Engineer** (May 2025–Present) — Production Kubernetes on AWS, GitOps, CI/CD, and infrastructure automation.
+- **GlobalLogic · Software Engineer** (Apr 2022–Apr 2025) — Terraform on Azure, AWS migration and infrastructure automation, and microservices on Google Cloud using KubeSphere.
